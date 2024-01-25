@@ -19,7 +19,7 @@ Libft is a custom C library created to provide a set of useful functions that ca
 
 ## Features
 
-- A collection of standard C library functions (e.g., `strlen`, `strlcpy`, `strlcat`).
+- A collection of standard C library functions (e.g., `strlen`, `strlcpy`, `strlcat`, `split`, `memset` ...).
 - Custom implementations of common utility functions.
 - Well-documented code for easy understanding and usage.
 - Unit tests to ensure the reliability of each function.
