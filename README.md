@@ -1,8 +1,8 @@
 # Libft
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://travis-ci.org/your-username/libft.svg?branch=master)](https://travis-ci.org/1MhDjant23/libft)
-[![codecov](https://codecov.io/gh/your-username/libft/branch/master/graph/badge.svg)](https://codecov.io/gh/1MhDjant23/libft)
+[![Build Status](https://travis-ci.org/1MhDjant23/libft.svg?branch=master)](https://travis-ci.org/1MhDjant23/libft)
+[![codecov](https://codecov.io/gh/1MhDjant23/libft/branch/master/graph/badge.svg)](https://codecov.io/gh/1MhDjant23/libft)
 
 > A custom C library containing useful functions for everyday programming.
 
